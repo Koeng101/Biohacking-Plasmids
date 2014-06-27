@@ -11,9 +11,8 @@
 28	pDusk	      Kan	    Dark activated RFP
 
 All the below are biobrick plasmids. The Cam resistance plasmids are parts that are biobricked for use in Bsubtilis. It is said that Bsubtilis is
-relativity codon neutral, meaning it will likely express any CDS that E coli will. However, this does not mean that RBSs are compatible. To 
-combat this I am creating a library of 16 RBSs produced by the Salis lab RBS calculator. After these are constructed, I am going to test 16
-additional RBSs to get a large range. Finally, I will test 16 native RBS sites with RFP and GFP to get exact numbers for gene
+relativity codon neutral, meaning it will likely express any CDS that E coli will. However, this does not mean that RBSs are compatible. I am
+creating a library of RBSs but it'll take some time for it to be done.
 
 5	  ECE257	    Amp   	amyE integration
 6	  ECE258	    Amp   	lacA integration
@@ -31,3 +30,7 @@ additional RBSs to get a large range. Finally, I will test 16 native RBS sites w
 18	ECE271    	Cam   	Strepactin tag
 19	ECE272    	Cam	    HA tag
 20	ECE273    	Cam	    cMyc tag
+(those are accession numbers for the Bacillus genetic stock center, look them up. They're very nice)
+
+If you want any of my plasmids, give me a heads up. I am creating new ones all the time, and will try and keep this updated. I'll send 1ml 
+bacterial cultures to you for like 5 bucks each or a plasmid trade. Thanks!
