@@ -1,2 +1,33 @@
-Plasmid list
-1.
+
+1	  pUC19     	Amp    	Cloning vector
+3	  pKD46	      Amp   	Lambda red recombination
+4	  ECE222    	Amp   	comK expression
+21	Bvector   	Amp	    E coli- Bacillus shuttle vector
+22	pGLO	      Amp	    Cloning vector
+23	pMALce	    Amp	    Expression Vector
+24	pDGIEF	    Amp	    Negative selection in Bacillus
+26	pMK4	      Amp	    E coli- Bacillus shuttle vector
+27	pDawn	      Kan	    Light activated RFP
+28	pDusk	      Kan	    Dark activated RFP
+
+All the below are biobrick plasmids. The Cam resistance plasmids are parts that are biobricked for use in Bsubtilis. It is said that Bsubtilis is
+relativity codon neutral, meaning it will likely express any CDS that E coli will. However, this does not mean that RBSs are compatible. To 
+combat this I am creating a library of 16 RBSs produced by the Salis lab RBS calculator. After these are constructed, I am going to test 16
+additional RBSs to get a large range. Finally, I will test 16 native RBS sites with RFP and GFP to get exact numbers for gene
+
+5	  ECE257	    Amp   	amyE integration
+6	  ECE258	    Amp   	lacA integration
+7	  ECE259    	Amp	    thrC integration
+8	  ECE260      Amp	    amyE lacZ
+9	  ECE261    	Amp   	lacA lux
+10	ECE262    	Cam	    Pveg
+11	ECE263	    Cam   	PliaG
+12	ECE264  	  Cam   	PlepA
+13	ECE266  	  Cam   	Weak promoter
+14	ECE267    	Cam	    PIia1, bacitracin inducable
+15	ECE268  	  Cam	    Pxyl, xylose inducable
+16	ECE269     	Cam   	10xHis tag
+17	ECE270    	Cam    	3xFlag tag
+18	ECE271    	Cam   	Strepactin tag
+19	ECE272    	Cam	    HA tag
+20	ECE273    	Cam	    cMyc tag
